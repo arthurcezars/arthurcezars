@@ -1,6 +1,6 @@
 ### Fala pessoal, Arthur aqui! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-- 🔭 No momento estou estagiando na parte de desenvolvimento
+- 💼 No momento estou estagiando na parte de desenvolvimento
 - 🌱 Estudando C# e .NET
 - 📫 Contate-me no email: arthurcezars@gmail.com
 
